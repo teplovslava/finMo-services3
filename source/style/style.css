@@ -1150,6 +1150,7 @@ footer{
     display: none;
 }
 
+
 @media (max-width:1350px) {
     header {
        padding-left: 20px;
@@ -2297,5 +2298,13 @@ main{
     position: absolute;
 }
 
+
+}
+
+.menu-content ul .active-menuItem{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 130%;
+    color: #000000;
 
 }
